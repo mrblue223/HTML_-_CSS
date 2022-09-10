@@ -1,0 +1,36 @@
+What is HTML? html = hyper text markup language
+
+WHAT CAN U USE IT FOR?
+- you can use html to create web pages.
+- describes the stucture of a web page
+- html consits of elements
+- html tells the browser how to display the content
+- html labels things such as titles and paragraphes
+
+SIMPLE HTML DOCUMENT EXP
+
+<!DOCTYPE>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>My first heading</h1>
+<p>My first paragraph</p>
+
+</body>
+</html>
+
+EXEMPLE EXPLAINED
+1. The "<!DOCTYPE>" (declaration defines that this document is an HTML5 document)
+2. The "<html>" (element is the root element of an HTML page)
+3. the "<head>" (element contains meta information about the HTML page)
+4. The "<title>" (element specifies a title for the HTML page (which is shown in the browser's title bar or in the page's tab))
+5. The "<body>" ( element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.)
+6. The "<h1>" ( element defines a large heading)
+7. The "<p>" (element describes paragrahes)
+
+WHAT IS AN ELEMENT?
+An HTML element is defined by a start <h1> and end tag </h1>.
+EXP: <h1>(start tag)my first heading(element content)</h1>(end tag)
